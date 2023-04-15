@@ -1,6 +1,6 @@
-#AI Programming with Python Project
-##Project Overview 
-**This project is a part of the Udacity AI Programming with Python Nanodegree Program. In this project, we built an image classifier that can classify flower species among 102 different categories using a deep learning model. We used PyTorch to train an image classifier on a dataset of flower images. Development Notebook Package Imports All the necessary packages and modules are imported in the first cell of the notebook.**
+<h1>AI Programming with Python Project</h1>
+<h2>Project Overview</h2>
+<p>This project is a part of the Udacity AI Programming with Python Nanodegree Program. In this project, we built an image classifier that can classify flower species among 102 different categories using a deep learning model. We used PyTorch to train an image classifier on a dataset of flower images.</p>
 
 <h2>Part 1 - Development Notebook</h2>
 <p>The development notebook contains all the code needed to train the flower image classifier from scratch. It includes the following components:</p>
