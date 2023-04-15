@@ -1,6 +1,6 @@
 <h1>Flower Species Image Classifier Project</h1>
 <h2>Project Overview</h2>
-<p>This project is a part of the Udacity AI Programming with Python Nanodegree Program. In this project, we built an image classifier that can classify flower species among 102 different categories using a deep learning model. We used PyTorch to train an image classifier on a dataset of flower images.</p>
+<p>This project is a part of the Udacity AI Programming with Python Nanodegree Program. In this project, I built an image classifier that can classify flower species among 102 different categories using a deep learning model. We used PyTorch to train an image classifier on a dataset of flower images.</p>
 
 <h2>Part 1 - Development Notebook</h2>
 <p>The development notebook contains all the code needed to train the flower image classifier from scratch. It includes the following components:</p>
