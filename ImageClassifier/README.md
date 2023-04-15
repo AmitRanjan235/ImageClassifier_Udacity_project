@@ -1,4 +1,4 @@
-<h1>AI Programming with Python Project</h1>
+<h1>Flower Species Image Classifier Project</h1>
 <h2>Project Overview</h2>
 <p>This project is a part of the Udacity AI Programming with Python Nanodegree Program. In this project, we built an image classifier that can classify flower species among 102 different categories using a deep learning model. We used PyTorch to train an image classifier on a dataset of flower images.</p>
 
@@ -35,7 +35,7 @@
     <li>Predicting with GPU: The predict.py script allows users to use the GPU to calculate the predictions.</li>
 </ul>
 
-##Installation 
+<h2>Installation</h2> 
 <div>
   <p>To get started with this project, follow these steps:</p>
   <ol>
